@@ -1,0 +1,18 @@
+Bibliography:
+Al-Tameemi, G. et al., 2020. Predictive Learning Analytics in Higher Education: Factors, Methods and Challenges. International Conference on Advances in Computing and Communication Engineering (ICACCE), 6(2), pp. 1-5.
+Asniar & Surendro, K., 2019. Predictive Analytics for Predicting Customer Behavior. International Conference of Artificial Intelligence and Information Technology (ICAIIT), 5(2), pp. 1-4.
+Bindra, A., Pokuri, S., Uppala, K. & Teredesai, A., 2012. Distributed Big Advertiser Data Mining. IEEE 12th International Conference on Data Mining Workshops, 15(8), pp. 1-5.
+Costa, G. et al., 2007. Logistics Management in a Mobile Environment: A Decision Support System Based on Trajectory Mining. Second International Conference on Systems (ICONS'07), 12(8), p. 34.
+Deng, L. & Gao, J., 2015. An advertising analytics framework using social network big data. Information Science and Technology (ICIST) 2015 5th International Conference, 8(2), pp. 470-475.
+Geng, H., 2017. Data Analytics and Predictive Analytics in the Era of Big Data. Internet of Things and Data Analytics Handbook, 3(2), pp. 329 - 345.
+Ge, Z., Song, Z., Ding, S. X. & Huang, B., 2017. Data Mining and Analytics in the Process Industry: The Role of Machine Learning. IEEE Access, 23(5), pp. 20590 - 20616.
+Hirsh, J., 2016. Predictive Policing and Civilian Oversight: What Will It Take to Get It Right?. Potentials IEEE, 36(5), pp. 19-22.
+Kumar, N., Singh, A. S., K, T. & Rajesh, E., 2020. Campus Placement Predictive Analysis using Machine Learning. 2nd International Conference on Advances in Computing, Communication Control and Networking (ICACCCN), 17(12), pp. 1-6.
+McCue, C., 2006. Data Mining and Predictive Analytics in Public Safety and Security. IT Professional, 8(4), pp. 12-18.
+Nauck, D., 2013. Predictive analytics and proactive service. IET Seminar on Data Analytics 2013: Deriving Intelligence and Value from Big Data, 72(6), pp. 1-4.
+Pechenizkiy, M., 2015. Predictive analytics on evolving data streams anticipating and adapting to changes in known and unknown contexts. International Conference on High Performance Computing & Simulation (HPCS), 1(1), pp. 1-4.
+Ramesh, R., 2017. Predictive analytics for banking user data using AWS Machine Learning cloud service. 2nd International Conference on Computing and Communications Technologies (ICCCT), 1(1), pp. 1-4.
+Shanthakumari, A. & Jayakarthik, R., 2021. An Enhanced Predictive Health Care Analytics in Data Mining Techniques for Chronic Kidney Diseases. 5th International Conference on Trends in Electronics and Informatics (ICOEI), 14(5), pp. 1-7.
+Smirnov, A. & Levashova, T., 2020. Intelligent Decision Support Based on User Digital Life Model: Principles and Conceptual Framework. 1(1), pp. 247-252.
+Subbalakshmi, S. & Prabhu, C., 2018. Protagonist of Big Data and Predictive Analytics using data analytics. International Conference on Computational Techniques, Electronics and Mechanical Systems (CTEMS), 1(4), pp. 1-5.
+Vargas, E. R., Montesinos, R. C. & Mauricio, D., 2020. Prediction of financial product acquisition for Peruvian savings and credit associations. Congreso Internacional de Innovaci—n y Tendencias en Ingenier’a (CONIITI), 12(2), pp. 1-5.
