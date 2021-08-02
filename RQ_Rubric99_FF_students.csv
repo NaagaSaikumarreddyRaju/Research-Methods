@@ -1,0 +1,37 @@
+Marker:,Frank Foerster
+Total mark:,4.48 (out of 10)
+
+,,Note 1: You could only get marks for either 'Population' or 'Problem'. So it is normal that one of the two section will have 0 marks
+,,"Note 2: If you have a mark in 'All PICO elements correct!' there will be no marks in any of the other PICO-related sections.
+ This means that you have full marks for all PICO elements even though the individual section show 0 marks - ignore those entries"
+Element,Mark,Comment
+Report has Research Question?,0.9,"This question is far too general to be useful. Narrow it down to some specific problem or application area! Also: As mentioned below, predition analysis and machine learning have quite a big overlap. So it really does not make sense to say ""prediction analysis ... using machine learning algorithms"" as the ""using .."" bit is not a useful restriction here. In other words, the RQ translates more or less to: What are the challenges that can be face during prediction analysis? This question is super-general, and can hardly be answered in any reasonable time as there are probably myriads of challanges depending on the problem / application area. So you really need to narrow this down to be of any use for a (hypothetical) research project."
+Type ('early'/'late') was specified?,0.35,
+Context,,
+Context labelled?,0.66,
+Context correct?,0.0,"I just had a quick look at the postulated dichotomy between machine learning and predictive analysis, and it unfortunately doesn't hold up. While the two concepts may not refer to exactly the same ""thing"", there is considerable overlap. So the claim that they are two distinct fields unfortunately does not hold up (see for example this book: https://learning.oreilly.com/library/view/mastering-predictive-analytics/9781787121393/?ar%2F=). Notice that it covers SVMs, neural networks and tree-based models, all three of which are classic machine learning approaches. So please do not make such strong claims prior to checking their veracity beforehand. It is not so important what you call some specific approach, but more important what you are trying to do with it. "
+Context explained?,0.67,
+Population,,
+Population labelled?,0.35,
+Population explained?,0.0,"The first sentence is unintelligible, please rewrite! Why are you talking about customers here, when no customer has been mentioed in the RQ? However, looking at some customer behaviour would be one possible useful restriction for the RQ, so it could be added there. ""The prime issue that is faced .. "" sentence is also unintelligible and doesn't make sense as it is. An 'issue' cannot have 'understanding', only people can - please reformulate. The next sentence also doesn't make sense: machine learning never ""provides infrastructure"". People provide infrastructure, not algorithms. Do to the large number of erroneous/unintelligible sentences I really don't understand what you are trying to say here. But a population it certainly ain't."
+Problem,,
+Problem labelled?,0.0,
+Problem correct?,0.0,
+Problem explained?,0.0,
+Intervention,,
+Intervention labelled?,0.35,
+Intervention correct?,0.0,There is only one sentence here which makes sence: the last one. You mention 'attributes' in the first sentence. Attributes of whom or of what? This needs to be stated! You mention 'previous' and 'current data'. What data is that? Where does it come from? What does it represent? All of this needs to be clearly stated. 
+Intervention explained?,0.0,
+Comparison,,
+Comparison labelled?,0.35,
+Comparison correct?,0.0,"Why do you want, out of the blue, compare these two specific types of regression? Given the generality of the RQ, this seems all of a sudden very specific. Why? How does it relate to the RQ? How does this comparison contribute to ""uncover"" the challenges faced during prediction analysis?"
+Comparison explained?,0.0,
+Outcome,,
+Outcome labelled?,0.35,
+Outcome correct?,0.0,"This entry here seems  to answer your RQ already, without you having had time to conduct the literature search. So if your RQ is real, that is, if the question is a genuine question of yours, then you cannot possible know the answer already. You need to do the study first before being able to make any such claim. What was expected here was an indication of the outcome variables that you may measure, or, given the early type of RQ, a ""not applicable"" with some speculations about potentially useful outcome variables. "
+Outcome explained?,0.0,
+Spelling correct?,0.0,"Many spelling errors such as ""off variables"" (should be: of)"
+Grammar correct?,0.0,Many sentences are unintelligible
+Is question Comp. Sci. question?,0.5,
+All Pico elements correct!,0.0,
+General comments,,"It is very important that you narrow down your RQ to some feasible problem, that can be tackled in a master's project. Also, a lot of elements in the RQ mention things like 'customers' etc. that had not been mentioned in the RQ at all. In this sense RQ and PICO elements are inconsistent. I recommend looking at some machine learing or predication analyses surveys and pick out some problem that is of interest to you and run with it rather than trying to answer this super-general question which would take years to answer. "
