@@ -1,0 +1,35 @@
+Marker:,Imran Khan
+Total mark:,7.9 (out of 10)
+
+Element,Mark,Comment
+Is there lit. search file?,,
+Filename correct?,,
+Search string (SS) - general comments,,
+SS syntactically correct?,0.3,
+SS semantically correct?,0.3,
+SS appropriate?,0.0,This is far too broad - evident by the 1000+ papers it returned.
+Reported number of papers sufficient?,0.0,
+Reported number of papers close to IEEE value?,0.3,
+Exporatory search string(s) - general comments,,
+Are there alternative search string(s) (ASS)?,0.3,
+ASS semantically correct?,0.6,
+Evidence of learning?,0.0,
+Inclusion (IC) / Exclusion criteria (EC) - general comments,,
+IC understandable?,0.3,
+IC appropriate?,0.0,"All publications have a DOI, so this is not valid criteria."
+IC appropriately selective?,0.0,
+EC understandable?,0.3,
+EC appropriate?,0.3,
+Do EC refine included papers?,0.0,
+Sources - general comments,,
+Sources stated?,0.3,
+Sources appropriate?,0.3,
+Presentation - general comments,,
+Spelling correct?,0.3,
+Punctuation correct?,0.3,
+Grammar correct?,0.0,"""prediction analytics"" does not need to be capitalised"
+Abbreviations introduced?,0.0,
+Bibliography - general comments,,
+[bibliography] Separate file?,0.5,
+[bibliography] Correct file format?,0.5,
+Share of correctly formatted references,3.0,
