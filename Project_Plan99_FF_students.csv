@@ -1,0 +1,39 @@
+Marker:,Frank Foerster
+Total mark:,19.0 (out of 29)
+Abbreviations: 'na' = not applicable
+
+Element,Judgement,Mark,Comment
+Submission - general comments:,,,
+Has a report file been submitted?,,,
+Has a source file for the report been submitted?,,,
+Has the file been named correctly? ('final_report.*')?,yes,0.0,
+Does the report have a title?,yes,0.5,Grammatical error in title --> see comment on annotated report
+Is the title appropriate?,yes,0.5,
+Abstract (general comments): ,,,
+Does the abstract introduce the context of the research problem?,yes,1.0,
+Does the abstract sketch the research problem?,no,0.0,The entire idea sees a bit convoluted as the three 'fields' have such a large overlap
+Introduction (general comments): ,,,
+Does the introduction contain sufficiently many references to the literature? ,yes,1.0,"More references should have been added, but ok"
+Does the introduction describe the context sufficiently well? ,yes,1.0,
+Does the introduction describe the to-be solved research problem or the to-be-answered research question? ,yes,1.0,"I am rather confused about the research question as I'm not sure if the distinction between data mining and machine learning that is assumed to be true is actually valid, but ok"
+Is the scope of the research question (or problem) realistic for a MSc PhD project?,no,0.0,"The topic seems to be very, very wide and therefore not suitable for a MSc thesis"
+Does the introduction give a short sketch of the to-be-employed research method? ,yes,1.0,
+Background (general comments): ,,,
+Does the introduction contain sufficiently many references to the literature?,yes,1.0,
+Are the descriptions provided in the background relevant for the proposed project? ,no,0.0,"The section mostly mentions various applications of predictive analytics but doesn't go into any depth on how machine learning, data mining, and predictive analytics precisely relate to each other, which would be important given your research question."
+Do the descriptons in the background provide a motivation for the research question or project? ,no,0.0,
+Method (general comments): ,,,
+Does the method section state facts or make assertions? ,,,
+"If so, are these backed by references to the literature? ",yes,1.0,
+Are the proposed research methods (RMs) suitable to solve the research problem or answer the research question? ,yes,2.0,
+Are the proposed RMs correctly described: ,yes,2.0,
+Is the plannend implementation or application of the RMs ostensibly correct? ,no,0.0,Some of the inclusion/exclusion criteria are underspecified. And some criteria were not applied correctly (see comment in annotated report)
+References (general comments): ,,,
+"How many references are complete, that is, do contain all of the necessary elements?: ",95-100%,3.0,"A few more references would have been good, but the ones you chose are well formatted."
+Are these references formatted correctly in Harvard style? ,yes,3.0,
+Presentation (general comments): ,,,
+Are all words in the report spelled correctly? ,no,0.0,see comments in annotated report
+"Is the punctuation correct across the document (e.g. spaces after colons, capitalization) ",no,0.0,see comments in annotated report
+Is the writing grammatically correct? ,no,0.0,see comments in annotated report
+"Are acronyms or abbreviations being used and, if yes, have they been spelled out or defined upon their first use? ",no,0.0,
+General comments: ,, I am still rather confused about the topic for the reason mentioned above: I don't think you can separate Data Mining from Machine Learning and Analystics cleanly enough to answer this research question.
