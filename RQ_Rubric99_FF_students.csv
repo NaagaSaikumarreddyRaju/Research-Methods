@@ -9,29 +9,29 @@ Report has Research Question?,0.9,"This question is far too general to be useful
 Type ('early'/'late') was specified?,0.35,
 Context,,
 Context labelled?,0.66,
-Context correct?,0.0,"I just had a quick look at the postulated dichotomy between machine learning and predictive analysis, and it unfortunately doesn't hold up. While the two concepts may not refer to exactly the same ""thing"", there is considerable overlap. So the claim that they are two distinct fields unfortunately does not hold up (see for example this book: https://learning.oreilly.com/library/view/mastering-predictive-analytics/9781787121393/?ar%2F=). Notice that it covers SVMs, neural networks and tree-based models, all three of which are classic machine learning approaches. So please do not make such strong claims prior to checking their veracity beforehand. It is not so important what you call some specific approach, but more important what you are trying to do with it. "
+Context correct?,0.0,"What has been stated under 'context' does not actually introduce the context. I just had a quick look at the postulated dichotomy between machine learning and predictive analysis, and it unfortunately doesn't hold up. While the two concepts may not refer to exactly the same ""thing"", there is considerable overlap. So the claim that they are two distinct fields unfortunately does not hold up (see for example this book: https://learning.oreilly.com/library/view/mastering-predictive-analytics/9781787121393/?ar%2F=). Notice that it covers SVMs, neural networks and tree-based models, all three of which are classic machine learning approaches. So please do not make such strong claims prior to checking their veracity beforehand. It is not so important what you call some specific approach, but more important what you are trying to do with it. "
 Context explained?,0.67,
 Population,,
 Population labelled?,0.35,
-Population explained?,0.0,"The first sentence is unintelligible, please rewrite! Why are you talking about customers here, when no customer has been mentioed in the RQ? However, looking at some customer behaviour would be one possible useful restriction for the RQ, so it could be added there. ""The prime issue that is faced .. "" sentence is also unintelligible and doesn't make sense as it is. An 'issue' cannot have 'understanding', only people can - please reformulate. The next sentence also doesn't make sense: machine learning never ""provides infrastructure"". People provide infrastructure, not algorithms. Do to the large number of erroneous/unintelligible sentences I really don't understand what you are trying to say here. But a population it certainly ain't."
+Population explained?,0.0,"The population has not been characterised in sufficient detail.  The first sentence is unintelligible, please rewrite! Why are you talking about customers here, when no customer has been mentioed in the RQ? However, looking at some customer behaviour would be one possible useful restriction for the RQ, so it could be added there. ""The prime issue that is faced .. "" sentence is also unintelligible and doesn't make sense as it is. An 'issue' cannot have 'understanding', only people can - please reformulate. The next sentence also doesn't make sense: machine learning never ""provides infrastructure"". People provide infrastructure, not algorithms. Do to the large number of erroneous/unintelligible sentences I really don't understand what you are trying to say here. But a population it certainly ain't."
 Problem,,
-Problem labelled?,0.0,
-Problem correct?,0.0,
-Problem explained?,0.0,
+Problem labelled?,0.0,The >problem< has not been labelled explicitely! 
+Problem correct?,0.0,The problem has not been correctly described. 
+Problem explained?,0.0,The problem has not been explained in sufficient detail. 
 Intervention,,
 Intervention labelled?,0.35,
-Intervention correct?,0.0,There is only one sentence here which makes sence: the last one. You mention 'attributes' in the first sentence. Attributes of whom or of what? This needs to be stated! You mention 'previous' and 'current data'. What data is that? Where does it come from? What does it represent? All of this needs to be clearly stated. 
-Intervention explained?,0.0,
+Intervention correct?,0.0,The description of intervention is incorrect. There is only one sentence here which makes sence: the last one. You mention 'attributes' in the first sentence. Attributes of whom or of what? This needs to be stated! You mention 'previous' and 'current data'. What data is that? Where does it come from? What does it represent? All of this needs to be clearly stated. 
+Intervention explained?,0.0,The description of the intervention is lacking detail. 
 Comparison,,
 Comparison labelled?,0.35,
-Comparison correct?,0.0,"Why do you want, out of the blue, compare these two specific types of regression? Given the generality of the RQ, this seems all of a sudden very specific. Why? How does it relate to the RQ? How does this comparison contribute to ""uncover"" the challenges faced during prediction analysis?"
-Comparison explained?,0.0,
+Comparison correct?,0.0,"The description of the comparison is erroneous.  Why do you want, out of the blue, compare these two specific types of regression? Given the generality of the RQ, this seems all of a sudden very specific. Why? How does it relate to the RQ? How does this comparison contribute to ""uncover"" the challenges faced during prediction analysis?"
+Comparison explained?,0.0,The >comparison< has not been elaborated on in sufficient detail. 
 Outcome,,
 Outcome labelled?,0.35,
-Outcome correct?,0.0,"This entry here seems  to answer your RQ already, without you having had time to conduct the literature search. So if your RQ is real, that is, if the question is a genuine question of yours, then you cannot possible know the answer already. You need to do the study first before being able to make any such claim. What was expected here was an indication of the outcome variables that you may measure, or, given the early type of RQ, a ""not applicable"" with some speculations about potentially useful outcome variables. "
-Outcome explained?,0.0,
-Spelling correct?,0.0,"Many spelling errors such as ""off variables"" (should be: of)"
-Grammar correct?,0.0,Many sentences are unintelligible
+Outcome correct?,0.0,"The description of the outcome is faulty. This entry here seems  to answer your RQ already, without you having had time to conduct the literature search. So if your RQ is real, that is, if the question is a genuine question of yours, then you cannot possible know the answer already. You need to do the study first before being able to make any such claim. What was expected here was an indication of the outcome variables that you may measure, or, given the early type of RQ, a ""not applicable"" with some speculations about potentially useful outcome variables. "
+Outcome explained?,0.0,The description of the outcome lack important details. 
+Spelling correct?,0.0,"Spelling errors have been found. Many spelling errors such as ""off variables"" (should be: of)"
+Grammar correct?,0.0,There are grammatical errors in the report. Many sentences are unintelligible
 Is question Comp. Sci. question?,0.5,
-All Pico elements correct!,0.0,
+All Pico elements correct!,0.0, 
 General comments,,"It is very important that you narrow down your RQ to some feasible problem, that can be tackled in a master's project. Also, a lot of elements in the RQ mention things like 'customers' etc. that had not been mentioned in the RQ at all. In this sense RQ and PICO elements are inconsistent. I recommend looking at some machine learing or predication analyses surveys and pick out some problem that is of interest to you and run with it rather than trying to answer this super-general question which would take years to answer. "
